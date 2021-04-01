@@ -1,13 +1,12 @@
 <div align='center'>
-    <img height="300px" width="300px" src='https://raw.githubusercontent.com/BrasilAPI/Logos/master/favicon.ico
-'></img><br/><br/>
+    <img height="300px" width="300px" src='https://avatars.githubusercontent.com/u/61395484?s=200&v=4'></img><br/><br/>
     <h2><b>Consulta Brasil</b></h2>
     <img src='https://img.shields.io/badge/React_Native-green'></img>
 </div>
 
 App em React Native para realização de consultas na Brasil API :rocket:
 
-[https://brasilapi.com.br/docs](Documentação Brasil API)
+[Documentação Brasil API](https://brasilapi.com.br/docs)
 
 # Todo
 
